@@ -6,7 +6,7 @@ This repository contains code for simulating and analyzing the dynamics of **int
 - ✅ MATLAB solver for coupled bubble dynamics (`KM_Ida_solver`)
 - ✅ R script for post-processing, regression analysis, and 3D visualization
 
-An **[interactive visualization tool](https://mumjtv-jenny-lee.shinyapps.io/Spherical_bubbles_interaction_regression/) **is available for comparing simulation results with regression estimates under various conditions.
+An [**interactive visualization tool**](https://mumjtv-jenny-lee.shinyapps.io/Spherical_bubbles_interaction_regression/) is available for comparing simulation results with regression estimates under various conditions.
 
 ---
 
