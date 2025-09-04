@@ -1,4 +1,4 @@
-# Bubble-Bubble Interaction Simulation
+# Bubble dynamics simulations with weak bubble-bubble interactions
 
 This repository contains code for simulating and analyzing the dynamics of **interacting gas bubbles** in a liquid using the **Keller–Miksis equations**. The project includes:
 
